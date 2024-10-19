@@ -1,6 +1,8 @@
 function Sadacoes(props) {
     return (
-        <h1> Olá, {props.nome}!</h1>
+        <div >
+            <h1> Olá, {props.nome}!</h1>
+        </div>
     )
 }
 export default Sadacoes;
